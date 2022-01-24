@@ -1,8 +1,9 @@
+""" Vincent Brichant"""
 class Fraction:
     """Class representing a fraction and operations on it
 
-    Author : V. Van den Schrieck
-    Date : November 2020
+    Author : Vincent Brichant
+    Date : December 2021
     This class allows fraction manipulations through several operations.
     """
 

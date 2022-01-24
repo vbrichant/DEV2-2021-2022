@@ -1,5 +1,6 @@
+""" Vincent Brichant"""
 import unittest
-from tp07vbrichant import Fraction
+from tp07_vBrichant import Fraction
 
 
 class FractionTestCase(unittest.TestCase):

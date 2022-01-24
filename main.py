@@ -1,4 +1,4 @@
-import tp07vbrichant
+import tp07_vBrichant
 
 # fractionNullDen = tp07vbrichant.Fraction(1, 0)
 fractionNullNum = tp07vbrichant.Fraction(0, 12)
